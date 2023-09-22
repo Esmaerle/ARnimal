@@ -1,2 +1,2 @@
 # ARnimal
-Augmented Reality application project
+Augmented Reality application in teaching kids regarding animals project
