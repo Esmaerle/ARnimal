@@ -1,0 +1,7 @@
+At Build Settings, the platform is switched to Android. At Player Settings, the following settings are made:  
+
+Other Settings> Check the box Override Default Package Name 
+Other Settings> Minimum API Level change to Android 8.0 ‘Oreo’ (API Level 26) 
+Other Settings> Scripting Backend change to IL2CPP 
+Other Settings> Target Architectures check box for ARM64, uncheck for ARMv7 
+Resolution and Presentation>At allowed orientations for auto rotation, uncheck Landscape Right and Landscape Left to make portrait. 
