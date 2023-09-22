@@ -1,0 +1,15 @@
+# Adding functionality to the buttons
+# Add a new script into the Canvas from the Graphic Raycaster to code the interfaces together
+# Name all the Scenes respectively just like “Giraffe”, to the animal names
+
+using System.Collections;
+using System.Collection.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class giraffebutton : MonoBehaviour
+{
+	public void Giraffe(string Giraffe){
+		SceneManager.LoadScene("Giraffe");
+	}
+}
